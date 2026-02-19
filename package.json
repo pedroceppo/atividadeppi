@@ -1,0 +1,29 @@
+{
+  "name": "atividadeppi",
+  "version": "1.0.0",
+  "description": "Reajuste de salario node + express ",
+  "keywords": [
+    "http",
+    "express",
+    "node"
+  ],
+  "homepage": "https://github.com/pedroceppo/atividadeppi#readme",
+  "bugs": {
+    "url": "https://github.com/pedroceppo/atividadeppi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroceppo/atividadeppi.git"
+  },
+  "license": "ISC",
+  "author": "Pedro Augusto",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
